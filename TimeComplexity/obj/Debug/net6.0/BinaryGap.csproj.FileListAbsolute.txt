@@ -1,0 +1,15 @@
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/obj/Debug/net6.0/BinaryGap.csproj.AssemblyReference.cache
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/obj/Debug/net6.0/BinaryGap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/obj/Debug/net6.0/BinaryGap.AssemblyInfoInputs.cache
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/obj/Debug/net6.0/BinaryGap.AssemblyInfo.cs
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/obj/Debug/net6.0/BinaryGap.csproj.CoreCompileInputs.cache
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/obj/Debug/net6.0/BinaryGap.genruntimeconfig.cache
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/bin/Debug/net6.0/Exercises
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/bin/Debug/net6.0/Exercises.deps.json
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/bin/Debug/net6.0/Exercises.runtimeconfig.json
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/bin/Debug/net6.0/Exercises.dll
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/bin/Debug/net6.0/ref/Exercises.dll
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/bin/Debug/net6.0/Exercises.pdb
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/obj/Debug/net6.0/Exercises.dll
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/obj/Debug/net6.0/ref/Exercises.dll
+/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/BinaryGap/obj/Debug/net6.0/Exercises.pdb

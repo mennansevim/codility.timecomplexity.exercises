@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jHbMzZzNEGg/xe3ayYXExl/EoFUDuuZD7X3QSoPB0rSlxSiejc87KrN8RUaqFpUyBVQ4Bv6CH8fMvhQ0cIyYMA==",
+  "success": true,
+  "projectFilePath": "/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/TimeComplexity/TimeComplexity.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus-xeon.trendyol.com/repository/nuget-group/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
