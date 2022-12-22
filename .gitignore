@@ -3,3 +3,12 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+.idea/.idea.Codility/.idea/.name
+.idea/.idea.Codility/.idea/vcs.xml
+TimeComplexity/obj/Debug/net6.0/TimeComplexity.assets.cache
+TimeComplexity/obj/Debug/net6.0/TimeComplexity.GeneratedMSBuildEditorConfig.editorconfig
+TimeComplexity/obj/project.assets.json
+TimeComplexity/obj/project.nuget.cache
+TimeComplexity/obj/project.packagespec.json
+TimeComplexity/obj/rider.project.restore.info
+TimeComplexity/obj/TimeComplexity.csproj.nuget.dgspec.json

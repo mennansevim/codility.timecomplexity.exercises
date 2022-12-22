@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/TimeComplexity/TimeComplexity.csproj": {}
+    "/Users/mennan.sevim1/Documents/Projects/Personal/Github/codility.timecomplexity.exercises/TimeComplexity/TimeComplexity.csproj": {}
   },
   "projects": {
-    "/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/TimeComplexity/TimeComplexity.csproj": {
+    "/Users/mennan.sevim1/Documents/Projects/Personal/Github/codility.timecomplexity.exercises/TimeComplexity/TimeComplexity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/TimeComplexity/TimeComplexity.csproj",
+        "projectUniqueName": "/Users/mennan.sevim1/Documents/Projects/Personal/Github/codility.timecomplexity.exercises/TimeComplexity/TimeComplexity.csproj",
         "projectName": "TimeComplexity",
-        "projectPath": "/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/TimeComplexity/TimeComplexity.csproj",
+        "projectPath": "/Users/mennan.sevim1/Documents/Projects/Personal/Github/codility.timecomplexity.exercises/TimeComplexity/TimeComplexity.csproj",
         "packagesPath": "/Users/mennan.sevim1/.nuget/packages/",
-        "outputPath": "/Users/mennan.sevim1/Documents/Projects/Personal/Codility/Codility/TimeComplexity/obj/",
+        "outputPath": "/Users/mennan.sevim1/Documents/Projects/Personal/Github/codility.timecomplexity.exercises/TimeComplexity/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
